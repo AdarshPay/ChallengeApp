@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80285161494",
+    "project_id": "challengemax-f20b5",
+    "storage_bucket": "challengemax-f20b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80285161494:android:e4cd5b31fbcf3188f4fd37",
+        "android_client_info": {
+          "package_name": "com.example.challenge_max"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfcCfrj9nZmF5bwLOFaZOHfbaZTJ1QlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
